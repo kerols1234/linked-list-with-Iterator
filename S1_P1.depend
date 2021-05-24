@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587481496 source:c:\users\kerols\desktop\s1_p1\main.cpp
+	<iostream>
+	<myList.h>
+
+1587390421 source:c:\users\kerols\desktop\s1_p1\src\mylist.cpp
+	"myList.h"
+
+1587390448 c:\users\kerols\desktop\s1_p1\include\mylist.h
+	<iostream>
+
